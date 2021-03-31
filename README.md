@@ -1,2 +1,2 @@
-# Astronom-a
+# Astronomia
 Calculadora de astronomía
